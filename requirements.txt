@@ -1,0 +1,5 @@
+pyserial
+behave
+selenium
+Appium-Python-Client
+allure-behave
